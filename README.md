@@ -2,6 +2,8 @@
 
 The CatOcean project is a collection of tools and libraries for working with the MetOcean data.
 
+![Demo](./assets/ex_geoContour.png)
+
 The required libraries yet include:
 
 - [numpy](https://numpy.org/)
